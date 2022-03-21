@@ -1,0 +1,20 @@
+{
+  "name": "juejin_check_in",
+  "version": "1.0.0",
+  "description": "掘金签到",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check",
+    "in"
+  ],
+  "author": "luke lin",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "node-schedule": "^2.1.0",
+    "request": "^2.88.2"
+  }
+}
